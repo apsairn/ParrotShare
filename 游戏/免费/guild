@@ -1,0 +1,9 @@
+免费游戏Guild
+
+免费游戏维护新功能：
+        为了帮助亲爱的玩家，我们给您提供了方便的软件：Kigar-lite.您在/游戏/免费/kigar/可以下载。
+       您有了KigarLite之后，您下载了一个游戏文件夹的所有文件之后，只要执行命令：
+       skigar “游戏名称” start task:install
+       就可以直接安装游戏，而不用反复的敲打几十条复杂的命令。
+如果您的游戏是闭源游戏，则您需要敲打:
+        skigar -fC “游戏名称” start task:install -node nodes:install
